@@ -1,0 +1,83 @@
+.scenario {
+  background-color: #1e1e1e;
+  width: 100%;
+  border: 2px solid black;
+  color: #f3f3f3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.scenario h1 {
+  margin-bottom: 150px;
+  margin-right: 740px;
+}
+
+.scenario h3 {
+  font-size: 25px;
+  margin-bottom: 50px;
+  margin-right: 770px;
+}
+
+.scenario-form {
+  width: 70%;
+  padding: 100px;
+}
+
+.form-input {
+  margin-top: -200px;
+  margin-left: -120px;
+  height: 30vh;
+  background-color: #333333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-input input {
+  height: 50px;
+  width: 300px;
+  margin: 50px;
+  border-radius: 5px;
+  background-color: #252525;
+  outline: none;
+  color: #f3f3f3;
+}
+
+.div-inputs h4 {
+  margin-left: 50px;
+  margin-bottom: -40px;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.form-buttons {
+  margin-left: -118px;
+}
+
+.form-buttons button {
+  height: 50px;
+  width: 100px;
+  margin-top: 50px;
+  margin-right: 20px;
+  border-radius: 5px;
+}
+
+.scenario-add {
+  background-color: #5db65f;
+  color: #f3f3f3;
+  font-size: 16px;
+}
+
+.scenario-reset {
+  background-color: #e37838;
+  color: #f3f3f3;
+  font-size: 16px;
+}
+
+.scenario-back {
+  background-color: #489cb8;
+  color: #f3f3f3;
+  font-size: 16px;
+}
